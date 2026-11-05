@@ -1,0 +1,6 @@
+{
+  "name": "CIS Got Latent - Interactive Comedy Talent Show",
+  "description": "IEEE CIS KLS GIT Presents: CIS Got Latent. Five judges, one average, unlimited embarrassment. Can you guess the judges' score average?",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
